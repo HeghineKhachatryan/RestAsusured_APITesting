@@ -1,0 +1,93 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "title": "json-server 1655311238444",
+      "author": "typicode 1655311238453 ",
+      "content": "content of typicode 1655311238453 ",
+      "id": 2
+    },
+    {
+      "title": "json-server 1655311238444",
+      "author": "typicode 1655311238453 ",
+      "content": "content of typicode 1655311238453 ",
+      "id": 3
+    },
+    {
+      "title": "Java for beginners",
+      "author": "Heghine",
+      "content": "Java Book",
+      "id": 4
+    },
+    {
+      "title": "New Java book",
+      "author": "Heghine Khachatryan",
+      "content": "Java Book for beginners",
+      "id": 5
+    },
+    {
+      "title": "Java for beginners updated",
+      "author": "Heghine Khachatryan",
+      "edition": "Edition one",
+      "year": "2022",
+      "content": "Java Book for beginners",
+      "id": 6
+    },
+    {
+      "title": "json-server 1655316979774",
+      "author": "typicode 1655316979774 ",
+      "content": "content of typicode 1655316979774 ",
+      "id": 7
+    },
+    {
+      "title": "New Java book",
+      "author": "Heghine Khachatryan",
+      "edition": "Edition one",
+      "year": "2022",
+      "content": "Java Book for beginners",
+      "id": 8
+    },
+    {
+      "title": "json-server 1655546601769",
+      "author": "typicode 1655546601779 ",
+      "content": "content of typicode 1655546601779 ",
+      "id": 9
+    },
+    {
+      "title": "json-server 1655546689118",
+      "author": "typicode 1655546689126 ",
+      "content": "content of typicode 1655546689126 ",
+      "id": 10
+    },
+    {
+      "title": "New Java book",
+      "author": "Heghine Khachatryan",
+      "edition": "first edition",
+      "year": "2022",
+      "content": "Java Book for beginners",
+      "id": 11
+    },
+    {
+      "title": "New Java book",
+      "author": "Heghine Khachatryan",
+      "edition": "first edition",
+      "year": "2022",
+      "content": "Java Book for beginners",
+      "id": 12
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
