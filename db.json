@@ -27,11 +27,12 @@
       "title": "New Java book",
       "author": "Heghine Khachatryan",
       "content": "Java Book for beginners",
-      "id": 5
+      "id": 5,
+      "<author>": "<new author>"
     },
     {
       "title": "Java for beginners updated",
-      "author": "Heghine Khachatryan",
+      "author": "new author",
       "edition": "Edition one",
       "year": "2022",
       "content": "Java Book for beginners",
@@ -78,6 +79,58 @@
       "year": "2022",
       "content": "Java Book for beginners",
       "id": 12
+    },
+    {
+      "title": "veryNewTitle",
+      "author": "veryNewAuthor",
+      "id": 13
+    },
+    {
+      "title": "veryNewTitle",
+      "author": "veryNewAuthor",
+      "edition": "second",
+      "id": 17
+    },
+    {
+      "title": "veryNewTitle",
+      "author": "veryNewAuthor",
+      "edition": "third",
+      "year": "2022",
+      "id": 18
+    },
+    {
+      "title1": "json",
+      "id": 19,
+      "json": "value1",
+      "json1": "value1",
+      "title1json": "value1"
+    },
+    {
+      "title1": "value1",
+      "id": 20
+    },
+    {
+      "Heghine": "Book",
+      "id": 21
+    },
+    {
+      "title1": "value1",
+      "id": 22
+    },
+    {
+      "name": "valueOf",
+      "title": "TitleOne",
+      "author": "newAuthor",
+      "content": "newContent",
+      "id": 23
+    },
+    {
+      "name": "valueOf",
+      "title": "TitleOne",
+      "author": "newAuthor",
+      "content": "newContent",
+      "year": "2022",
+      "id": 24
     }
   ],
   "comments": [
