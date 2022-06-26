@@ -1,5 +1,5 @@
 # RestAsusured_APITesting
-Testing json-server using RestAssured
+Testing json-server using RestAssured and Cucumber
 
 
 Getting started
